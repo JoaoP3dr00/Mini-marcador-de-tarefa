@@ -44,7 +44,7 @@ def display1() -> None:
         label = boots.Label(image=checkimg)
         label.pack()
         label.place(x=202, y=40)
-        messagebox.showinfo(title='Parabéns!!', message="Boa carai :D", icon="warning")
+        messagebox.showinfo(title='Parabéns!!', message="Boa :D", icon="warning")
     else:
         label = Label(image=checkimg2)
         label.pack()
@@ -56,7 +56,7 @@ def display2() -> None:
         label = boots.Label(image=checkimg)
         label.pack()
         label.place(x=202, y=75)
-        messagebox.showinfo(title='Parabéns!!', message="Boa carai :D", icon="warning")
+        messagebox.showinfo(title='Parabéns!!', message="Boa :D", icon="warning")
     else:
         label = boots.Label(image=checkimg2)
         label.pack()
@@ -68,7 +68,7 @@ def display3() -> None:
         label = boots.Label(image=checkimg)
         label.pack()
         label.place(x=202, y=109)
-        messagebox.showinfo(title='Parabéns!!', message="Boa carai :D", icon="warning")
+        messagebox.showinfo(title='Parabéns!!', message="Boa :D", icon="warning")
     else:
         label = boots.Label(image=checkimg2)
         label.pack()
@@ -80,7 +80,7 @@ def display4() -> None:
         label = boots.Label(image=checkimg)
         label.pack()
         label.place(x=202, y=177)
-        messagebox.showinfo(title='Parabéns!!', message="Boa carai :D", icon="warning")
+        messagebox.showinfo(title='Parabéns!!', message="Boa :D", icon="warning")
     else:
         label = boots.Label(image=checkimg2)
         label.pack()
@@ -92,7 +92,7 @@ def display5() -> None:
         label = boots.Label(image=checkimg)
         label.pack()
         label.place(x=202, y=211)
-        messagebox.showinfo(title='Parabéns!!', message="Boa carai :D", icon="warning")
+        messagebox.showinfo(title='Parabéns!!', message="Boa :D", icon="warning")
     else:
         label = boots.Label(image=checkimg2)
         label.pack()
@@ -104,7 +104,7 @@ def display6() -> None:
         label = boots.Label(image=checkimg)
         label.pack()
         label.place(x=202, y=245)
-        messagebox.showinfo(title='Parabéns!!', message="Boa carai :D", icon="warning")
+        messagebox.showinfo(title='Parabéns!!', message="Boa :D", icon="warning")
     else:
         label = boots.Label(image=checkimg2)
         label.pack()
